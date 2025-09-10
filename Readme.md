@@ -91,5 +91,7 @@ Este projeto demonstra a capacidade de:
 ## **Autor**
 
 **Nicolas Gabriel**
+
 nicolasgbleal@gmail.com
+  
 [LinkedIn](https://www.linkedin.com/in/nicolas-rodrigues-leal/) | [GitHub](https://github.com/NicolasGayb)
