@@ -63,7 +63,7 @@ python etl_vendas.py
 
 5. **Abrir o Power BI**
 
-* Abrir o arquivo `dashboard_vendas.pbix` ou importar `vendas_limpo.csv`.
+* Abrir o arquivo `KPI's Demonstração.pbix` ou importar `vendas_limpo.csv`.
 * Conferir que os campos `valor_venda`, `custo`, `lucro`, `margem_pct` estão como **Decimal Number** e `data_venda` como **Date**.
 * Interagir com **slicers** para filtrar por data, cidade ou canal.
 
@@ -93,5 +93,5 @@ Este projeto demonstra a capacidade de:
 **Nicolas Gabriel**
 
 nicolasgbleal@gmail.com
-  
+
 [LinkedIn](https://www.linkedin.com/in/nicolas-rodrigues-leal/) | [GitHub](https://github.com/NicolasGayb)
